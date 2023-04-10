@@ -2,6 +2,10 @@
 
 I work as a Software Engineer for [VMware](https://www.vmware.com/) where I work with a globally distributed team dedicated to improving VMWare worldwide Sales Opertions which is critical in VMware's SaaS transformation.
 
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/mithun-harikumar10/)
+
+
 <!--
 **mhn10/mhn10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
