@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, Nice to meet you!
+
+I work as a Software Engineer for [VMware](https://www.vmware.com/) where I work with a globally distributed team dedicated to improving VMWare worldwide Sales Opertions which is critical in VMware's SaaS transformation.
 
 <!--
 **mhn10/mhn10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
